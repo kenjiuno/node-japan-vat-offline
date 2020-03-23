@@ -1,7 +1,7 @@
 {
   "name": "node-japan-vat-offline",
   "description": "Supply a well known copy of Japanese consumption tax table",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "main": "index.js",
   "author": "kenjiuno",
   "license": "BSD-2-Clause",
