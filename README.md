@@ -10,7 +10,7 @@ console.log(japanVat.table());
 
 Sample output:
 
-```json
+```txt
 [ { since: '2019-10-01', percent: 10 },
   { since: '2014-04-01', percent: 8 },
   { since: '1997-04-01', percent: 5 },
