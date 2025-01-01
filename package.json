@@ -9,9 +9,6 @@
   "devDependencies": {
     "jest": "^29.5.0"
   },
-  "resolutions": {
-    "semver": "7.5.2"
-  },
   "scripts": {
     "test": "jest",
     "prepare": "npm run test"
