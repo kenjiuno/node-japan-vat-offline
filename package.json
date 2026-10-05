@@ -10,7 +10,7 @@
     "jest": "^30.4.2"
   },
   "resolutions": {
-    "brace-expansion": "2.1.4"
+    "brace-expansion": "2.1.7"
   },
   "scripts": {
     "test": "jest",
